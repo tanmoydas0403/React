@@ -1,0 +1,9 @@
+## create react project:
+i) npx create-react-app 01basicreact
+-> start script
+ npm run start
+-> build script
+npm run build
+ii) using vite : 
+    a. npm create vite@latest 
+    b. npm install
